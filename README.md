@@ -1,1 +1,11 @@
-# Alura
+img/Background.png
+img/Combo.png
+img/Logo.png
+img/Notebook.png
+img/Plataformas.png
+img/Telas.png
+img/celular.png
+img/computador.png
+img/tv.png
+index.html
+styles.css
